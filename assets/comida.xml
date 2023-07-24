@@ -1,0 +1,41 @@
+<breakfast_menu>
+<food>
+<name>Belgian Waffles</name>
+<image>https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/2020_belgian-style-waffles_16700_600x600.jpg?ext=.jpg</image>
+<price>$5.95</price>
+<description>Two of our famous Belgian Waffles with plenty of real maple syrup</description>
+<calories>650</calories>
+</food>
+
+<food>
+<name>Strawberry Belgian Waffles</name>
+<image>https://i0.wp.com/cupcakes-and-sarcasm.com/wp-content/uploads/2018/10/0CBB3C05-E91F-457F-B3D4-877FA6E04113.jpeg?resize=1470%2C680&ssl=1</image>
+<price>$7.95</price>
+<description>Light Belgian waffles covered with strawberries and whipped cream</description>
+<calories>900</calories>
+</food>
+
+<food>
+<name>Berry-Berry Belgian Waffles</name>
+<image>https://freshberries.com.au/wp-content/uploads/2021/04/waffles-1.png</image>
+<price>$8.95</price>
+<description>Light Belgian waffles covered with an assortment of fresh berries and whipped cream</description>
+<calories>900</calories>
+</food>
+
+<food>
+<name>French Toast</name>
+<image>https://www.mccormick.com/-/media/project/oneweb/mccormick-us/mccormick/recipe-images/quick_and_easy_french_toast_new_2000x1125.webp?rev=fe4792c4af594ab38d79efcaffb18f44&vd=20220809T202106Z&hash=2DEC621A0776BA7382A063C8DFFDFF9F</image>
+<price>$4.50</price>
+<description>Thick slices made from our homemade sourdough bread</description>
+<calories>600</calories>
+</food>
+<food>
+
+<name>Homestyle Breakfast</name>
+<image>https://grandmascatering.com/images/thumbs/0000010_homestyle-breakfast_550.jpeg</image>
+<price>$6.95</price>
+<description>Two eggs, bacon or sausage, toast, and our ever-popular hash browns</description>
+<calories>950</calories>
+</food>
+</breakfast_menu>
